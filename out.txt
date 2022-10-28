@@ -1,0 +1,6 @@
+history.txt:ls | grep *.txt > out.txt
+history.txt:ls | grep -r *.txt > out.txt
+history.txt:ls | grep *.txt > out.txt
+history.txt:ls | grep -r *.txt > out.txt
+history.txt:ls | grep -r *.txt
+history.txt:ls | grep -r *.txt > out.txt
